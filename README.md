@@ -1,1 +1,1 @@
-# Deep_Learning_Projects
+# Basic_Deep_Learnig_Projects
